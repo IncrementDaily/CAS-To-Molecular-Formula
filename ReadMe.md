@@ -5,6 +5,8 @@ Output -- a .csv file with fields for CAS number and a count of each atom: C, H,
 
 Operation: Scrapes the NIST chemistry WebBook for the data. Uses regular expression to parse formula. Apache CSV library to read and write csvs.
 
+![](https://github.com/IncrementDaily/CAS-To-Molecular-Formula/blob/main/exampleOutput.png?raw=true)
+
 ### Get It Running
 
 (1) Install intelliJ
